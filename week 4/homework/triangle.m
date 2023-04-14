@@ -7,6 +7,7 @@
 
 leng = input('Enter a number: '); % Prompt the user for a number
 % Loop over each row of the pattern
+height = leng;
 for i = 1:leng
     % Calculate the number of spaces and asterisks to print for this row
     num_spaces = height - i;

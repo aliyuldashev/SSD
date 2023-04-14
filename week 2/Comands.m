@@ -1,5 +1,5 @@
 a = 4; % assigning new value to variable
-b = 17.8
+b = 17.8;
 
 disp(); %displaying objects 
 

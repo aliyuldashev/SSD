@@ -1,4 +1,4 @@
-% Discrete signal types
+% Sinusoidal signal types
 % See difference of signals
 % Set the amplitude, frequency, phase, and growth rate of the signal
 A = 60;
